@@ -44,3 +44,30 @@ Feel free to explore my repositories for projects that showcase my skills and co
 | Job Success     | 100%          |
 | Projects Completed | 10+       |
 | Hours Worked    | 300+         |
+
+## Languages and Tools
+
+### Languages:
+| Python3 | React | JavaScript | Go |
+|---------|-------|------------|----|
+| <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python" width="50"> | <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" width="50"> | <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="50"> | <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg" alt="Go" width="50"> |
+
+### Best Frameworks and Libraries for Python3:
+| PyTorch | Selenium | NumPy | Pandas | Scikit-learn | OpenCV | Django | Flask |
+|---------|----------|-------|--------|--------------|--------|--------|-------|
+| <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" alt="PyTorch" width="50"> | <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" alt="Selenium" width="50"> | <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="NumPy" width="50"> | <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="Pandas" width="50"> | <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="50"> | <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/OpenCV_logo_with_text.png" alt="OpenCV" width="50"> | <img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Django_logo.svg" alt="Django" width="50"> | <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg" alt="Flask" width="50"> |
+
+### My Tools for Data Manipulation & Visualization:
+| Conda | Jupyter | Spark | MySQL | Postgres | SQLite | Plotly | Matplotlib |
+|-------|---------|-------|-------|----------|--------|--------|------------|
+| <img src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Anaconda_Logo.png" alt="Conda" width="50"> | <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter" width="50"> | <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="Spark" width="50"> | <img src="https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg" alt="MySQL" width="50"> | <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="Postgres" width="50"> | <img src="https://upload.wikimedia.org/wikipedia/commons/9/97/Sqlite-square-icon.svg" alt="SQLite" width="50"> | <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/Plotly_logo.png" alt="Plotly" width="50"> | <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" width="50"> |
+
+### Environments, Testing, and Other Tools:
+| Node.js | Git | Docker | Pytest | Swagger | Postman | VBox | HardHat |
+|---------|-----|--------|--------|---------|---------|------|---------|
+| <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="Node.js" width="50"> | <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" alt="Git" width="50"> | <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.svg" alt="Docker" width="50"> | <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Pytest_logo.svg" alt="Pytest" width="50"> | <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png" alt="Swagger" width="50"> | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Postman_%28software%29.png" alt="Postman" width="50"> | <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/VirtualBox_logo.png" alt="VBox" width="50"> | <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Hardhat_logo.png" alt="HardHat" width="50"> |
+
+### OS:
+| Linux Ubuntu | Windows | macOS |
+|--------------|---------|-------|
+| <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png" alt="Linux" width="50"> | <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Windows_logo_-_2012_%28dark_blue%29.svg" alt="Windows" width="50"> | <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Apple-logo.png" alt="macOS" width="50"> |
