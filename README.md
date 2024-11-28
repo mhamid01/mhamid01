@@ -33,7 +33,14 @@ Proficient in frontend technologies and integrating responsive UIs with Python b
 Feel free to explore my repositories for projects that showcase my skills and contributions. Let’s connect and collaborate to create impactful solutions! 🚀
 
 ## Connect with me:
+| Platform|
+|----------|
+| [![Upwork](https://github.com/mhamid01/images/blob/main/Upwork.png)](https://www.upwork.com/freelancers/~0193836a6dadc6890a?mp_source=share) |
 
-[![Upwork](https://github.com/mhamid01/images/blob/main/Upwork.png)](https://www.upwork.com/freelancers/~0193836a6dadc6890a?mp_source=share)
+## Upwork Profile
 
-
+| Earnings        | $5k+         |
+|-----------------|---------------|
+| Job Success     | 100%          |
+| Projects Completed | 10+       |
+| Hours Worked    | 300+         |
