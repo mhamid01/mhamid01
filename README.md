@@ -35,4 +35,6 @@ Feel free to explore my repositories for projects that showcase my skills and co
 ## Connect with me:
 
 [![LinkedIn](https://raw.githubusercontent.com/your-username/your-repo/main/connect-with-me.png)](https://www.linkedin.com/in/muhammad-hamid-05477a33a)
-[![Upwork](https://raw.githubusercontent.com/your-username/your-repo/main/connect-with-me.png)](https://www.upwork.com/freelancers/~0193836a6dadc6890a?mp_source=share)
+[![Upwork](https://github.com/mhamid01/images/blob/main/Upwork.png)](https://www.upwork.com/freelancers/~0193836a6dadc6890a?mp_source=share)
+
+
